@@ -32,4 +32,4 @@ This repository is a structured collection of **Java** concepts from **Basic to 
 ## 🚀 How to Use This Repository  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/yourusername/Java-Advanced-JDBC-SQL.git
+  [ git clone https://github.com/yourusername/Java-Advanced-JDBC-SQL.git](https://github.com/RajuKumar077/Java-Advanced-JDBC-MySQL/tree/main)
